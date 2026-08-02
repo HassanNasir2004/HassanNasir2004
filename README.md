@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hassan Nasir</h1>
-<h3 align="center">A passionate Developer exploring Web Development, Data Structures & CI/CD Pipelines</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Hassan%20Nasir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20DSA%20Learner%20%7C%20CI%2FCD%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanNasir2004&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/HassanNasir2004?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=HassanNasir2004&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/HassanNasir2004?label=Followers&style=for-the-badge&color=8E54E9" alt="followers" />
 </p>
 
 ---
@@ -23,6 +24,62 @@
 - 📫 Reach me at: **your-email@example.com**
 - ⚡ Fun fact: I like turning boring tasks into automated ones
 
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**📌 Currently Learning**
+
+| Topic | Status |
+|---|---|
+| Data Structures & Algorithms | 🟢 In Progress |
+| CI/CD Pipelines (GitHub Actions) | 🟢 In Progress |
+| Advanced JavaScript | 🟡 Started |
+| Cloud Fundamentals | 🔵 Up Next |
+
+</td>
+<td valign="top" width="50%">
+
+**🎯 2026 Goals**
+
+- ✅ Build & deploy a full CI/CD pipeline
+- ✅ Solve 100+ DSA problems
+- ⬜ Contribute to an open-source project
+- ⬜ Build a full-stack production app
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/HassanNasir2004/landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=landing-page&theme=tokyonight&hide_border=true" alt="landing-page"/>
+  </a>
+  <a href="https://github.com/HassanNasir2004/DSA-Task">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=DSA-Task&theme=tokyonight&hide_border=true" alt="DSA-Task"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/HassanNasir2004/CICD_demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=CICD_demo&theme=tokyonight&hide_border=true" alt="CICD_demo"/>
+  </a>
+  <a href="https://github.com/HassanNasir2004/HassanNasir-CICD-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=HassanNasir-CICD-Project&theme=tokyonight&hide_border=true" alt="HassanNasir-CICD-Project"/>
+  </a>
+</p>
+
+> 💡 Tip: You can also pin these officially via **your GitHub profile → Customize your pins** so they show up twice — once natively, once styled here.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -30,6 +87,21 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,githubactions,vscode,linux" alt="tech stack" />
 </p>
+
+<details>
+<summary align="center"><b>📊 Skill Proficiency (click to expand)</b></summary>
+<br>
+
+```text
+HTML/CSS        ████████████████████░░░░  80%
+JavaScript      ███████████████░░░░░░░░░  60%
+Java            ██████████████░░░░░░░░░░  55%
+Git & GitHub    █████████████████░░░░░░░  70%
+CI/CD           ████████████░░░░░░░░░░░░  50%
+DSA             ███████████░░░░░░░░░░░░░  45%
+```
+
+</details>
 
 ---
 
@@ -58,6 +130,47 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HassanNasir2004/HassanNasir2004/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
+  <img src="https://raw.githubusercontent.com/HassanNasir2004/HassanNasir2004/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+</p>
+
+> ⚙️ Requires a one-time setup — see `snake.yml` workflow below (also shared with this README).
+
+---
+
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Connect WakaTime (see note below) to show real weekly coding hours here.
+```
+<!--END_SECTION:waka-->
+
+> 💡 Optional: link a free [WakaTime](https://wakatime.com/) account + the `waka-readme` GitHub Action to auto-fill this box with your real weekly language breakdown.
+
+---
+
+### 😄 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="jokes"/>
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hassannasir" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee"/>
+  </a>
 </p>
 
 ---
