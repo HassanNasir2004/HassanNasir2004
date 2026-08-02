@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences;Learning+DSA+one+problem+at+a+time;Automating+workflows+with+CI%2FCD;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences;Learning+DSA+one+problem+at+a+time;Automating+workflows+with+CI%2FCD;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,13 +15,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=70A5FD&query=%24.public_repos&url=https://api.github.com/users/HassanNasir2004" alt="repos"/>
-  <img src="https://img.shields.io/github/stars/HassanNasir2004?style=for-the-badge&color=BF91F3&label=Stars" alt="stars"/>
 </p>
 
 <p align="center">
   <a href="#-about-me">About</a> ·
   <a href="#-pinned-projects">Projects</a> ·
-  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
   <a href="#-github-stats">Stats</a> ·
   <a href="#-contribution-snake">Snake</a> ·
   <a href="#-connect-with-me">Connect</a>
@@ -153,7 +152,7 @@ DSA             ███████████░░░░░░░░░░�
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=HassanNasir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
