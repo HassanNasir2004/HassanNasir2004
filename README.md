@@ -13,16 +13,31 @@
   <img src="https://img.shields.io/github/followers/HassanNasir2004?label=Followers&style=for-the-badge&color=8E54E9" alt="followers" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=2E9EF7&query=public_repos&url=https://api.github.com/users/HassanNasir2004" alt="repos"/>
+  <img src="https://img.shields.io/github/stars/HassanNasir2004?style=for-the-badge&color=8E54E9&label=Stars" alt="stars"/>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-pinned-projects">Projects</a> ·
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> ·
+  <a href="#-github-stats">Stats</a> ·
+  <a href="#-contribution-snake">Snake</a> ·
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **CI/CD pipelines** and **web development projects**
-- 🌱 Learning **Data Structures & Algorithms** (Stacks, Queues, LinkedLists)
-- 💻 Comfortable with **HTML, CSS, Java, JavaScript**
-- ⚙️ Exploring **DevOps** tooling and automated deployments
+I'm a developer based in Pakistan who likes building things end-to-end — from the HTML/CSS on a landing page to the pipeline that ships it. Most of what's in this profile started as a "let me figure out how this works" project.
+
+- 🔭 Right now I'm deep in **CI/CD pipelines** — getting comfortable with GitHub Actions beyond the basics
+- 🌱 Working through **DSA** properly (stacks, queues, linked lists first, trees/graphs next)
+- 💻 Day-to-day stack: **HTML, CSS, JavaScript, Java, Git**
+- 🎯 Next milestone: ship a small full-stack app with its own automated deploy pipeline
 - 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I like turning boring tasks into automated ones
 
 <br>
 
@@ -80,6 +95,20 @@
 
 > 💡 Tip: You can also pin these officially via **your GitHub profile → Customize your pins** so they show up twice — once natively, once styled here.
 
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="100%">
+
+**🔦 Featured: [CICD_demo](https://github.com/HassanNasir2004/CICD_demo)**
+
+A hands-on project for learning how to automate the build → test → deploy cycle with GitHub Actions instead of doing it manually. This is where most of the "CI/CD Enthusiast" in my tagline comes from.
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -108,12 +137,17 @@ DSA             ███████████░░░░░░░░░░�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages"/>
 </p>
 
 ---
@@ -121,7 +155,8 @@ DSA             ███████████░░░░░░░░░░�
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=tokyonight&no-frame=true&row=1&column=6#gh-dark-mode-only" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=flat&no-frame=true&row=1&column=6#gh-light-mode-only" alt="trophies" />
 </p>
 
 ---
@@ -129,7 +164,8 @@ DSA             ███████████░░░░░░░░░░�
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=tokyo-night&hide_border=true#gh-dark-mode-only" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=minimal&hide_border=true#gh-light-mode-only" alt="activity graph"/>
 </p>
 
 ---
