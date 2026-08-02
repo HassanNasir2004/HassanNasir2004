@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=70A5FD&query=%24.public_repos&url=https://api.github.com/users/HassanNasir2004" alt="repos"/>
+  <a href="https://github.com/HassanNasir2004?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View%20All-70A5FD?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
+  </a>
 </p>
 
 <p align="center">
@@ -96,15 +98,15 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/HassanNasir2004/landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=landing-page&theme=tokyonight&hide_border=true" alt="landing-page"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HassanNasir2004&repo=landing-page&theme=tokyonight&hide_border=true" alt="landing-page"/>
   </a>
   <a href="https://github.com/HassanNasir2004/DSA-Task">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=DSA-Task&theme=tokyonight&hide_border=true" alt="DSA-Task"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HassanNasir2004&repo=DSA-Task&theme=tokyonight&hide_border=true" alt="DSA-Task"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/HassanNasir2004/HassanNasir-CICD-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=HassanNasir-CICD-Project&theme=tokyonight&hide_border=true" alt="HassanNasir-CICD-Project"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HassanNasir2004&repo=HassanNasir-CICD-Project&theme=tokyonight&hide_border=true" alt="HassanNasir-CICD-Project"/>
   </a>
 </p>
 
@@ -151,12 +153,12 @@ DSA             ███████████░░░░░░░░░░�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=HassanNasir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -164,7 +166,7 @@ DSA             ███████████░░░░░░░░░░�
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=HassanNasir2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
