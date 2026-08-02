@@ -39,9 +39,9 @@ I'm a developer based in Pakistan who likes building things end-to-end — from 
 
 - 🔭 Right now I'm deep in **CI/CD pipelines** — getting comfortable with GitHub Actions beyond the basics
 - 🌱 Working through **DSA** properly (stacks, queues, linked lists first, trees/graphs next)
-- 💻 Day-to-day stack: **HTML, CSS, JavaScript, Java, Git**
+- 💻 Day-to-day stack: **HTML, CSS, JavaScript, React, Java, Git**
 - 🎯 Next milestone: ship a small full-stack app with its own automated deploy pipeline
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **arain.hassan54@gmail.com**
 
 <br>
 
@@ -55,6 +55,7 @@ I'm a developer based in Pakistan who likes building things end-to-end — from 
 |---|---|
 | Data Structures & Algorithms | 🟢 In Progress |
 | CI/CD Pipelines (GitHub Actions) | 🟢 In Progress |
+| React | 🟢 In Progress |
 | Advanced JavaScript | 🟡 Started |
 | Cloud Fundamentals | 🔵 Up Next |
 
@@ -82,14 +83,16 @@ I'm a developer based in Pakistan who likes building things end-to-end — from 
 flowchart LR
     A[HTML & CSS<br/>landing-page] --> B[Java + DSA<br/>Stacks, Queues, LinkedLists]
     B --> C[Git & GitHub<br/>version control]
-    C --> D[CI/CD<br/>CICD_demo]
-    D --> E[Full-Stack + Auto-Deploy<br/>🎯 next milestone]
+    C --> D[React<br/>frontend]
+    D --> E[CI/CD<br/>CICD_demo]
+    E --> F[Full-Stack + Auto-Deploy<br/>🎯 next milestone]
 
     style A fill:#2E9EF7,color:#fff,stroke:none
     style B fill:#4A8FE7,color:#fff,stroke:none
     style C fill:#6680D8,color:#fff,stroke:none
-    style D fill:#8271C9,color:#fff,stroke:none
-    style E fill:#8E54E9,color:#fff,stroke:none
+    style D fill:#7A78CE,color:#fff,stroke:none
+    style E fill:#8271C9,color:#fff,stroke:none
+    style F fill:#8E54E9,color:#fff,stroke:none
 ```
 
 ---
@@ -134,7 +137,7 @@ A hands-on project for learning how to automate the build → test → deploy cy
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,githubactions,vscode,linux" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,githubactions,vscode,linux" alt="tech stack" />
 </p>
 
 <details>
@@ -144,6 +147,7 @@ A hands-on project for learning how to automate the build → test → deploy cy
 ```text
 HTML/CSS        ████████████████████░░░░  80%
 JavaScript      ███████████████░░░░░░░░░  60%
+React           █████████████░░░░░░░░░░░  50%
 Java            ██████████████░░░░░░░░░░  55%
 Git & GitHub    █████████████████░░░░░░░  70%
 CI/CD           ████████████░░░░░░░░░░░░  50%
@@ -234,14 +238,11 @@ Connect WakaTime (see note below) to show real weekly coding hours here.
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-nasir-2403a7297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:arain.hassan54@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
