@@ -128,25 +128,33 @@ A hands-on CI/CD project built around a small Node.js app, containerized with **
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,githubactions,vscode,linux" alt="tech stack" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-<details>
-<summary align="center"><b>📊 Skill Proficiency (click to expand)</b></summary>
-<br>
+**Frameworks & Libraries**
 
-```text
-HTML/CSS        ████████████████████░░░░  80%
-JavaScript      ███████████████░░░░░░░░░  60%
-React           █████████████░░░░░░░░░░░  50%
-Java            ██████████████░░░░░░░░░░  55%
-Git & GitHub    █████████████████░░░░░░░  70%
-CI/CD           ████████████░░░░░░░░░░░░  50%
-DSA             ███████████░░░░░░░░░░░░░  45%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
 
-</details>
+**Tools & Platforms**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
