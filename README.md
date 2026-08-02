@@ -27,6 +27,10 @@
   <a href="#-connect-with-me">Connect</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2E9EF7?style=for-the-badge" alt="open to opportunities"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -71,6 +75,22 @@ I'm a developer based in Pakistan who likes building things end-to-end — from 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day"/>
 </p>
+
+### 🗺️ My Learning Journey
+
+```mermaid
+flowchart LR
+    A[HTML & CSS<br/>landing-page] --> B[Java + DSA<br/>Stacks, Queues, LinkedLists]
+    B --> C[Git & GitHub<br/>version control]
+    C --> D[CI/CD<br/>CICD_demo]
+    D --> E[Full-Stack + Auto-Deploy<br/>🎯 next milestone]
+
+    style A fill:#2E9EF7,color:#fff,stroke:none
+    style B fill:#4A8FE7,color:#fff,stroke:none
+    style C fill:#6680D8,color:#fff,stroke:none
+    style D fill:#8271C9,color:#fff,stroke:none
+    style E fill:#8E54E9,color:#fff,stroke:none
+```
 
 ---
 
@@ -217,7 +237,7 @@ Connect WakaTime (see note below) to show real weekly coding hours here.
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:arain.hassan54@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
