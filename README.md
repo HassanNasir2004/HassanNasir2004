@@ -116,8 +116,6 @@ flowchart LR
   </a>
 </p>
 
-> 💡 Tip: You can also pin these officially via **your GitHub profile → Customize your pins** so they show up twice — once natively, once styled here.
-
 <br>
 
 <table align="center">
@@ -200,8 +198,6 @@ DSA             ███████████░░░░░░░░░░�
   <img src="https://raw.githubusercontent.com/HassanNasir2004/HassanNasir2004/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
   <img src="https://raw.githubusercontent.com/HassanNasir2004/HassanNasir2004/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
 </p>
-
-> ⚙️ Requires a one-time setup — see `snake.yml` workflow below (also shared with this README).
 
 ---
 
