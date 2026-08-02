@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:7928CA&height=200&section=header&text=Hassan%20Nasir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20DSA%20Learner%20%7C%20CI%2FCD%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=200&section=header&text=Hassan%20Nasir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20DSA%20Learner%20%7C%20CI%2FCD%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences;Learning+DSA+one+problem+at+a+time;Automating+workflows+with+CI%2FCD;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences;Learning+DSA+one+problem+at+a+time;Automating+workflows+with+CI%2FCD;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanNasir2004&label=Profile%20Views&color=FE428E&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/HassanNasir2004?label=Followers&style=for-the-badge&color=7928CA" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=HassanNasir2004&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/HassanNasir2004?label=Followers&style=for-the-badge&color=BF91F3" alt="followers" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=FE428E&query=public_repos&url=https://api.github.com/users/HassanNasir2004" alt="repos"/>
-  <img src="https://img.shields.io/github/stars/HassanNasir2004?style=for-the-badge&color=7928CA&label=Stars" alt="stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=70A5FD&query=%24.public_repos&url=https://api.github.com/users/HassanNasir2004" alt="repos"/>
+  <img src="https://img.shields.io/github/stars/HassanNasir2004?style=for-the-badge&color=BF91F3&label=Stars" alt="stars"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-FE428E?style=for-the-badge" alt="open to opportunities"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-70A5FD?style=for-the-badge" alt="open to opportunities"/>
 </p>
 
 ---
@@ -83,12 +83,12 @@ flowchart LR
     D --> E[CI/CD<br/>Docker + Jenkins]
     E --> F[Full-Stack + Auto-Deploy<br/>🎯 next milestone]
 
-    style A fill:#FE428E,color:#fff,stroke:none
-    style B fill:#E23FA6,color:#fff,stroke:none
-    style C fill:#C63CB8,color:#fff,stroke:none
-    style D fill:#A93ACB,color:#fff,stroke:none
-    style E fill:#8D37DD,color:#fff,stroke:none
-    style F fill:#7928CA,color:#fff,stroke:none
+    style A fill:#70A5FD,color:#fff,stroke:none
+    style B fill:#7DA0E8,color:#fff,stroke:none
+    style C fill:#8B9BD3,color:#fff,stroke:none
+    style D fill:#9896BE,color:#fff,stroke:none
+    style E fill:#A691A9,color:#fff,stroke:none
+    style F fill:#BF91F3,color:#fff,stroke:none
 ```
 
 ---
@@ -97,15 +97,15 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/HassanNasir2004/landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=landing-page&theme=radical&hide_border=true" alt="landing-page"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=landing-page&theme=tokyonight&hide_border=true" alt="landing-page"/>
   </a>
   <a href="https://github.com/HassanNasir2004/DSA-Task">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=DSA-Task&theme=radical&hide_border=true" alt="DSA-Task"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=DSA-Task&theme=tokyonight&hide_border=true" alt="DSA-Task"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/HassanNasir2004/HassanNasir-CICD-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=HassanNasir-CICD-Project&theme=radical&hide_border=true" alt="HassanNasir-CICD-Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNasir2004&repo=HassanNasir-CICD-Project&theme=tokyonight&hide_border=true" alt="HassanNasir-CICD-Project"/>
   </a>
 </p>
 
@@ -152,12 +152,12 @@ DSA             ███████████░░░░░░░░░░�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanNasir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasir2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -165,7 +165,7 @@ DSA             ███████████░░░░░░░░░░�
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanNasir2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
@@ -173,7 +173,7 @@ DSA             ███████████░░░░░░░░░░�
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=radical&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanNasir2004&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -199,5 +199,5 @@ DSA             ███████████░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FE428E&height=100&section=footer" alt="footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:1a1b27&height=100&section=footer" alt="footer wave"/>
 </p>
